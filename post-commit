@@ -1,0 +1,2 @@
+#!/bin/sh
+powershell.exe -ExecutionPolicy Bypass -File "$PWD/.git/hooks/tweet.ps1"
